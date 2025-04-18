@@ -1,7 +1,41 @@
 ## Hi there 👋
 
 
-**victoriajohn312/victoriajohn312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victoria. 
+
+I am a Data Analyst.
+
+
+# Mission
+My mission is to help others.
+
+## Vision
+My vision is to be an entrepreneur.
+------
+
+******
+
+For a code
+```
+print("Hello Worl!")
+```
+
+* One
+* Two  
+* Three  
+  + One
+  + Two  
+
+- One
+- Two
+
+
+
+
+
+
+
+<!-- **victoriajohn312/victoriajohn312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,3 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
+
