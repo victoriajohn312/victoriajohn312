@@ -32,7 +32,7 @@ print("Hello Worl!")
 # Project :book:
 
 
-
+[LinkedIn](https://www.linkedin.com/in/edwigesongong/)
 
 
 <!-- **victoriajohn312/victoriajohn312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
